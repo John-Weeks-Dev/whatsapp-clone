@@ -1,4 +1,4 @@
-# Gmail Clone (gmail-clone)
+# WhatsApp Clone (whatsapp-clone)
 
 ### Tutorial series on how to build this
 
